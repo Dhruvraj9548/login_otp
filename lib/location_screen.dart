@@ -559,5 +559,5 @@ class _locationScreenState extends State<locationScreen> {
 
 class Secrets {
   // Add your Google Maps API Key here
-  static const API_KEY = 'AIzaSyBEeaUNoItZMzqwgOK_PBF9WXtwN2stVMg';
+  static const API_KEY = 'Your Api key';
 }
